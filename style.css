@@ -1,7 +1,9 @@
-body, css {
+body,
+css {
   margin: 0;
   padding: 0;
-  background-color: aliceblue;
+  background-image: url("https://cdn.pixabay.com/photo/2016/06/03/12/42/popcorn-1433327_1280.jpg");
+  /* background-color: aliceblue; */
   text-align: center;
 }
 
